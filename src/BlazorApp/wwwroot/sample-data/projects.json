@@ -5,9 +5,9 @@
     "url": "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
   },
   {
-    "title": "Web Development for Beginners",
-    "description": "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    "url": "https://github.com/microsoft/web-dev-for-beginners"
+    "title": "Shopping Cart App",
+    "description": "Experience the convenience of a user-friendly online shopping cart application built using Blazor and ASP.NET API.",
+    "url": "https://shoponlineapp.azurewebsites.net/"
   },
   {
     "title": "My Resume Site",
@@ -20,3 +20,5 @@
     "url": "https://www.youtube.com/watch?v=c3hHhRME_XI"
   }
 ]
+
+//This "Shopping Cart App" is an online platform that provides a seamless and easy-to-use shopping experience. Shoppers can visit the provided URL to explore a variety of products and add them to their virtual shopping cart for a convenient and efficient shopping experience. Whether you're looking for electronics, clothing, accessories, or other items, this app simplifies the process of selecting and purchasing your desired products. Visit the website and start shopping today!
